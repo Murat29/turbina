@@ -9,6 +9,4 @@ Cайт для музыкального проекта детского книж
 * JS
 * React
 
-### Ссылка
-https://murat29.github.io/turbina/
-
+### [Демонстрация](https://murat29.github.io/turbina)
